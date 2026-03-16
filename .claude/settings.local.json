@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(g++ --version)",
+      "Bash(g++ -std=c++11 -o test.exe \"26.赋值运算符重载.cpp\")",
+      "Bash(./test.exe)"
+    ]
+  }
+}
